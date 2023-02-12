@@ -1,8 +1,8 @@
 <?php
 
 $localhost = "localhost";
-$username = "root";
-$password = "";
+$username = "urf8r7w2_db_anime";
+$password = "^js;LMC6&lw~";
 $database = "urf8r7w2_db_anime";
 
 $conn = mysqli_connect($localhost, $username, $password, $database);
